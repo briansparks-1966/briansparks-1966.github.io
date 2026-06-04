@@ -63,6 +63,7 @@ For a typical gymnasium basketball goal motor installation, this exception may n
 Common mistakes include:
 
 - treating a wall key switch as the motor disconnect,
+  <!-- updated -->
 - treating a push button or pendant as the disconnect,
 - installing the disconnect only in the electrical room without checking the within-sight rule,
 - assuming a breaker in a panel is acceptable without checking lockable-open requirements,
