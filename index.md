@@ -18,10 +18,14 @@ Practical NEC code articles, Electrical Trade Education, Construction, Utility
 - NEC Code Articles
 - Grounding and Bonding
 - NEC Calculations
-- Therory
+- Theory
 - Tools of the Trade
 - Documents
 - Continuing Education
+
+  ## Site Pages
+
+- [About](about.html)
 - Troubleshooting
 - Watthour Metering
 - Transformers
